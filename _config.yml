@@ -71,4 +71,5 @@ exclude_generator:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
-  type:
+  type: heroku
+  repository: https://github.com/hhlux/hexo_on_heroku.git
